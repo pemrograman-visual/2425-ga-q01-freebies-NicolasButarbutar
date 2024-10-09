@@ -1,3 +1,4 @@
-Kami sudah menyelesaikan tugas
-Kami masih sedikit sulit dalam memahami persoalan yang diberikan
-Kami cukup bingung menentukan solusi untuk persoalan
+Kami sudah menyelesaikan tugas.
+Kami masih sedikit sulit dalam memahami persoalan yang diberikan.
+Kami cukup bingung menentukan solusi untuk persoalan.
+Kami mengunduh file .github pada file Q01.
